@@ -4,7 +4,7 @@
 
 class Sipvicious < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/sipvicious.git"
+  head "https://gitlab.com/kalilinux/packages/sipvicious.git"
   
 
   # depends_on "cmake" => :build
