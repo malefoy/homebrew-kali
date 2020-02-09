@@ -4,7 +4,7 @@
 
 class Uniscan < Formula
   homepage ""
-  head "git@gitlab.com:kalilinux/packages/uniscan.git"
+  head "https://gitlab.com/kalilinux/packages/uniscan.git"
   
 
   # depends_on "cmake" => :build
